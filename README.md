@@ -1,7 +1,7 @@
 # Varanasi-Radio-Telescope
 # Varanasi Wok Radio Telescope - First Attempt with 10-15m Tower RFI
 **Student:** Shashwat Singh, Varanasi, UP (25.3°N) - NSEP 2026 / OCSC 2027 aspirant
-**Start Date:** 17 September 2026 - 4:15 PM IST
+**Start Date:** 17 September 2026 - 3:00 PM IST
 **Challenge:** Mobile tower at 10-15m from house terrace. All tutorials say avoid towers. I am testing from dense urban Varanasi.
 
 ### Goal
